@@ -37,16 +37,16 @@ Some good wallpaper built by html.
 ![](demo/RacingLines.gif)
 
 12. RainDay
-![](demo\Rainday.gif)
+![](demo/Rainday.gif)
 
 13. RevolvingStars
-![](demo\RevolvingStars.gif)
+![](demo/RevolvingStars.gif)
 
 14. Sakura
-![](demo\Sakura.gif)
+![](demo/Sakura.gif)
 
 15. Spin
-![](demo\Spin.gif)
+![](demo/Spin.gif)
 
 16. Starfield
-![](demo\Starfield.gif)
+![](demo/Starfield.gif)
